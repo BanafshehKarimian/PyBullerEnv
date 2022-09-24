@@ -1,5 +1,5 @@
 # PyBullerEnv
-An Environment with Franka Panda arm as the robot and multiple Goals for the agent to reach created using PyBullet.
+An Environment with Franka Panda arm as the robot and multiple Goals for the agent to reach created using PyBullet. Demonstration videos are available at the .ipynb file.
 # reach_goal_min_energy
 The goal is to reach the goal with minimum energy.<br/>
 ![image](https://user-images.githubusercontent.com/19387425/192102149-1e9c958c-0258-4e24-b046-1b0890676635.png)
